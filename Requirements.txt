@@ -1,3 +1,2 @@
-opencv
+opencv-python
 mediapipe
-time
